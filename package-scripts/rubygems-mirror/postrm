@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary rubygems-mirror removal steps
+# after package is uninstalled.
+#
+
+echo "rubygems-mirror has been uninstalled!"
+
+exit 0
